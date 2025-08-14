@@ -17,30 +17,30 @@ screenshots of each report page for quick reference.
 Core scatter visuals show how **Aroma, Body, Balance, Acidity, Flavor, Aftertaste** relate to **Total Cup Points**.  
 Slicers allow filtering by **Country of Origin** and **Variety**.
   
-![Page 1](./images/page1.png)
+![Page 1](https://github.com/srk5555/Cofee_Quality_Institute_Analysis/blob/main/Page_1.png?raw=true)
 
 ### Page 2 — Processing Method Deep-Dive
 Matrix with per-method averages (aroma, balance, body, flavor, aftertaste, acidity, uniformity) and a bar chart of **Average Total Cup Points by Processing Method**.  
 Country and variety slicers included.
   
-![Page 2](./images/page2.png)
+![Page 2](https://github.com/srk5555/Cofee_Quality_Institute_Analysis/blob/main/Page_2.png?raw=true)
 
 ### Page 3 — Origin Insights
 Table repeats method averages for context and a bar chart of **Sum of Total Cup Points by Country of Origin** to compare top-performing origins.
   
-![Page 3](./images/page3.png)
+![Page 3](https://github.com/srk5555/Cofee_Quality_Institute_Analysis/blob/main/Page_3.png?raw=true)
 
 ### Page 4 — Defects & Distribution
 Monthly trends for **Category One** and **Category Two Defects**, defect counts by **Variety**, and distribution of **Variety counts vs Total Cup Points**.  
 High-level cards show total cup points and total defects.
   
-![Page 4](./images/page4.png)
+![Page 4](https://github.com/srk5555/Cofee_Quality_Institute_Analysis/blob/main/Page_4.png?raw=true)
 
 ### Page 5 — Harvest, Region & Physicals
 Breakdowns of **Total Cup Points** by **Processing Method**, **Harvest Year**, **Region**, and **Variety**.  
 Additional visuals cover **Bag Weight by In-Country Partner**, **Moisture % vs Total Cup Points**, and **Bean Color** filters.
   
-![Page 5](./images/page5.png)
+![Page 5](https://github.com/srk5555/Cofee_Quality_Institute_Analysis/blob/main/Page_5.png?raw=true)
 
 ---
 

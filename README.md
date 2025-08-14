@@ -1,14 +1,13 @@
 # Coffee Quality Institute — Power BI Dashboard
 
 A 5-page interactive Power BI report that explores the Coffee Quality Institute (CQI) cupping data.  
-This repository includes the `.pbix` file and the source Excel used to build the model, along with
+This repository includes the `.pbix` file and the
 screenshots of each report page for quick reference.
 
 > **Files**
 >
 > - `CQI.pbix` — the full Power BI report  
-> - `df_arabica_clean.xlsx` — source dataset (cleaned Arabica records)  
-> - `images/page1.png` … `images/page5.png` — high-resolution screenshots of each page
+> - `Page_1,...Page_5` — high-resolution screenshots of each page
 
 ---
 
@@ -46,7 +45,7 @@ Additional visuals cover **Bag Weight by In-Country Partner**, **Moisture % vs T
 ---
 
 ## 🧱 Data Model (High Level)
-- Source: `df_arabica_clean.xlsx` (CQI cupping records; cleaned and standardized)
+- (CQI cupping records; cleaned and standardized)
 - Fact table: cupping scores & attributes (aroma, body, balance, flavor, aftertaste, acidity, uniformity, defects, total cup points)
 - Dimensions: country of origin, variety, processing method, harvest year, region, color, in-country partner
 - Simple calculated measures for page KPIs (e.g., *Sum of Aroma*, *Sum of Balance*, *Sum of Acidity*, etc.)
@@ -59,16 +58,11 @@ Then jump to **Page 2** to understand how processing influences profile and cup 
 ## ▶️ How to Open
 1. Clone/download this repository.
 2. Open `CQI.pbix` with **Microsoft Power BI Desktop** (June 2023 or later recommended).
-3. If prompted for data source, point to the local `df_arabica_clean.xlsx` in the repo root.
+3. Message me for the Source Dataset for the dynamic working of the PowerBI report.
 4. Refresh the report to validate connections.
 
 ---
 
-## 🔁 Reproduce / Extend
-- Replace `df_arabica_clean.xlsx` with your own CQI-formatted file (same columns) and refresh.
-- Add new measures (e.g., *Average of Total Cup Points*, *Top N Varieties* by origin).
-- Duplicate pages to create origin-specific summaries.
 
----
 
-## 📁 Suggested Repo Structure
+
